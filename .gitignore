@@ -1,0 +1,7 @@
+# Local secrets: never commit API keys
+.claude/settings.local.json
+.env
+.env.*
+
+# Build output
+dist/
